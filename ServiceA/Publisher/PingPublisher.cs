@@ -1,5 +1,5 @@
-﻿using MassTransit;
-using ServiceA.Contracts;
+﻿using Contracts;
+using MassTransit;
 
 namespace ServiceA.Publisher;
 
